@@ -42,7 +42,7 @@ events.createmove(on_createmove)
 
 ## Example
 ```Lua
-local lagrecord = require 'neverlose/lagrecord'
+local lagrecord = require 'lagrecord'
 
 lagrecord.set_update_callback(function(player)
     if player == entity.get_local_player() then
