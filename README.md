@@ -4,7 +4,7 @@ A lagrecord library for Neverlose CS:GO that supports multiple essential HvH fea
 Since the CS:GO is likely going to die in about 2 months I decided to no longer gatekeep some of my projects so the [pasters](https://i.imgur.com/giH9W2E.png) can finally learn something from it.
 
 ## Issues
-1. this library is almost 2 years old and some tenchniques / implementations may be outdated.
+1. this library is almost 2 years old and some techniques / implementations may be outdated.
 2. get_dead_time function is mostly wrong and needs to be done correctly. [See this](https://www.unknowncheats.me/forum/counterstrike-global-offensive/359885-fldeadtime-int.html).
 3. in some cases it may preserve records that are already invalid (eg. post dormant, etc...)
 
